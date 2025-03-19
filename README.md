@@ -14,6 +14,9 @@ O objetivo deste projeto é demonstrar o funcionamento de uma CNN para classific
      + Camadas de Convolução: para extrair características das imagens (como bordas, texturas e padrões)
      + Camadas de Pooling: para reduzir a dimensionalidade e destacar as características mais importantes.
      + Camadas Fully Connected (Dense): para realizar a classificação final.
+    
+       ![image](https://github.com/user-attachments/assets/228e52ad-e715-4474-bf12-30f3e4ceed77)
+
 
 3. Entendendo o funcionamento do kernel e feature maps:
    + Durante o processo, exploramos como os kernels (filtros) atuam sobre as imagens para gerar **feature maps**, que representam as características aprendidas pela rede.
