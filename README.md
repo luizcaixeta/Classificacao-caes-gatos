@@ -21,8 +21,19 @@ O objetivo deste projeto é demonstrar o funcionamento de uma CNN para classific
 3. Entendendo o funcionamento do kernel e feature maps:
    + Durante o processo, exploramos como os kernels (filtros) atuam sobre as imagens para gerar **feature maps**, que representam as características aprendidas pela rede.
   
+   ![image](https://github.com/user-attachments/assets/d19fba71-4aa6-4acc-9ae5-ec57cb18c7b2)
+
+  
 4. Definição das epochs:
    + Uma **epoch** corresponde a uma passagem completa pelo conjunto de dados de treinamento. Explicamos como o número de epochs impacta o aprendizado do modelo, evitando underfitting (poucas epochs) ou overfitting (muitas epochs).
   
+     ![image](https://github.com/user-attachments/assets/5270b7c4-c039-4413-90c0-a861236ec80d)
+
+  
 5. Treinamento e avaliação do modelo:
-   + O modelo foi treinado e avaliado utilizando métricas como acurácia e loss, tanto para os dados de treinamento quanto para os de validação.       
+   + O modelo foi treinado e avaliado utilizando métricas como acurácia e loss, tanto para os dados de treinamento quanto para os de validação.
+  
+     Resultados:
+
+          Acurácia no conjunto de teste: 93.00%
+          Perda no conjunto de teste: 0.1696
