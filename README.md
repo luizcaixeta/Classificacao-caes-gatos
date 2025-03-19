@@ -37,3 +37,11 @@ O objetivo deste projeto é demonstrar o funcionamento de uma CNN para classific
 
           Acurácia no conjunto de teste: 93.00%
           Perda no conjunto de teste: 0.1696
+
+## Como executar o projeto
+
+1. Clone este repositório:
+   ```git clone https://github.com/luizcaixeta/classificacao-caes-gatos-estudo-CNN ```
+
+2. Execute o Jupyter Notebook:
+   ```jupyter notebook notebooks/cat_and_dog.ipynb ```
